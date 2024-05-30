@@ -8,5 +8,7 @@
 ## VIP Section / payment
 
 -------------------
-mongo compass 152mb
-mongo 500mb
+# Instructions
+## Please download mongo compass and mongo engine.
+## Remember to setup your mongo DB in your .env found in your project root level
+## MONGO_DB_URL
